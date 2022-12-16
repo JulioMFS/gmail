@@ -1,0 +1,14 @@
+to: sanfonaj@gmail.com
+from: Endesa Energia <endesa.pt@cgi.com>
+date: Sat, 10 Dec 2022 11:13:16 +0000 (UTC)
+subject: =?utf-8?Q?Endesa_-_Atualiza=C3=A7=C3=A3o_dos_pre=C3=A7os_2023?=
+<?xml version="1.0" encoding="UTF-8"?><sref:service-ref xmlns:sref="http://docs.oasis-open.org/wsbpel/2.0/serviceref"><ns2:dados xmlns:ns2="http://xml.netbeans.org/schema/mySchema"><table><tr><td><img src="cid:header"/> </td> </tr> </table><p align="justify" style="font-family: arial; font-size:11pt">Caro(a) <span class="mceNonEditable" xpath="FIELD1_MEAN">Agro Lda</span>,</p><p align="justify" style="font-family: arial; font-size:11pt">Na Endesa estamos junto dos nossos clientes oferecendo sempre as melhores soluções em cada momento.  Por esta razão, comprometemo-nos a não alterar os preços da energia até ao final de 2022 mantendo assim a competitividade nos preços praticados.</p><p align="justify" style="font-family: arial; font-size:11pt">A partir de 1 de janeiro de 2023, os seus preços de energia serão atualizados. Em anexo, poderá encontrar mais detalhes sobre as suas condições. </p><p align="justify" style="font-family: arial; font-size:11pt">Os melhores cumprimentos, </p><br/><table border="0" width="30%"><tbody><tr><td align="center"><img src="https://media-fei.endesaclientes.pt/ied/endesa/contratos/assinatura_ines_roque.png" width="200"/></td>
+			</tr><tr><td align="center" style="font-family: arial; font-size:8pt">Inés Roque de Mateo</td>
+			</tr><tr><td align="center" style="font-family: arial; font-size:8pt">Diretora de Mercado Residêncial e Negócios</td>
+			</tr>
+		</tbody>
+	</table><p/><p align="justify" style="font-family: arial; font-size:11pt">Lembre-se que estamos à sua inteira disposição para o esclarecimento de quaisquer dúvidas que considere relevantes, através dos seguintes contactos:</p><table><tr><td><img src="cid:rodape"/>
+			</td>
+		</tr>
+	</table>
+</ns2:dados></sref:service-ref>
